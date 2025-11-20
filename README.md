@@ -1,2 +1,2 @@
-# Sistem-Rekomendasi-menggunakan-Algoritma-Firefly
-Project ini menerapkan algoritma firefly dalam mengoptimasi sistem rekomendasi film
+# Sistem Rekomendasi Menggunakan Algoritma Firefly
+Proyek ini mengembangkan sistem rekomendasi film menggunakan teknik Collaborative Filtering dengan metode Pearson Correlation dan algoritma Firefly untuk mengoptimalkan hasil rekomendasi. Collaborative Filtering dimanfaatkan untuk mengukur kemiripan preferensi antar pengguna, sementara algoritma Firefly membantu memilih kombinasi film terbaik berdasarkan nilai kemiripan tersebut. Untuk mengatasi masalah sparsity, data dengan rating kosong dihapus agar model dapat bekerja lebih efektif. Hasil penelitian menunjukkan performa sistem yang cukup baik dengan nilai MAE sebesar 2,40 dan MSE sebesar 5,76, menandakan tingkat kesalahan prediksi yang masih dalam batas wajar.
